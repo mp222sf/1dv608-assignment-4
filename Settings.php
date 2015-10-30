@@ -7,8 +7,8 @@ class Settings {
 
 	// Settings for setup of the MYSQL-connection.
 	const MYSQL_SERVER = "mysql5.000webhost.com";
-	const MYSQL_USERNAME = "a5233204_mp222sf";
-	const MYSQL_PASSWORD = "hejhej123";
+	const MYSQL_USERNAME = "";
+	const MYSQL_PASSWORD = "";
 	const MYSQL_DATABASE = "a5233204_Users";
 	const MYSQL_PORT = "3306";
 
